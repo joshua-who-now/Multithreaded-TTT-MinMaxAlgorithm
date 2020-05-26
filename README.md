@@ -1,4 +1,6 @@
 # Project5-CS342-TTT
+Team: Eric Zavala (https://github.com/EricZavala05), Miguel Alanis (https://github.com/Malanis11)
+
 
 # Description:
 This is your second team project. You will create a server that plays Tic Tac Toe with
